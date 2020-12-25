@@ -1,4 +1,6 @@
-### Hi there 👋
+### The Galacticos 🏆
+
+<img src="https://scontent.fgau4-1.fna.fbcdn.net/v/t1.0-9/44106462_284410012168757_2388918109193895936_n.jpg?_nc_cat=109&ccb=2&_nc_sid=8bfeb9&_nc_ohc=HdHoQGCGbXIAX83yIiM&_nc_oc=AQk6OJTXYfpIO_b_ro0VJRsTT1YKEE6DuvvF3EsDNFeGdrUFZ5l7eTRyy7-qxSeF0lk&_nc_ht=scontent.fgau4-1.fna&oh=52d6be1266ee5af71c85d59344e874a4&oe=600C1B9D" alt="GitHub badge" />
 
 <!--
 **kangkanjr/kangkanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
