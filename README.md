@@ -1,7 +1,3 @@
-### The Galacticos 🏆
-
-<img src="https://www.ecestaticos.com/image/clipping/98b0fce173dda197cdad7e91222dcf79/eramos-una-panda-de-locos-el-documental-que-airea-los-trapos-sucios-de-los-galacticos.jpg" alt="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/04/15675942601540.png" />
-
 <!--
 **kangkanjr/kangkanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
